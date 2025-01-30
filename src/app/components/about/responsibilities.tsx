@@ -10,7 +10,7 @@ const Responsibilities = () => {
           <div className="xl:w-1/3 md:w-1/2 p-4">
             <div className="border border-gray-200 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center justify-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-6">
-                <VscWorkspaceTrusted size={32} />
+                <a href="https://wa.me/qr/FWX3BWWPABVRG1"><VscWorkspaceTrusted size={32} /></a>
               </div>
               <h2 className="text-lg font-medium text-gray-900 mb-2 text-center">
                 Quality Products
@@ -23,7 +23,7 @@ const Responsibilities = () => {
           <div className="xl:w-1/3 md:w-1/2 p-4">
             <div className="border border-gray-200 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center justify-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-6">
-                <MdOutlineAddIcCall size={32} />
+                <a href="https://wa.me/qr/FWX3BWWPABVRG1"><MdOutlineAddIcCall size={32} /></a>
               </div>
               <h2 className="text-lg font-medium text-gray-900 mb-2 text-center">
                 Online Order
@@ -36,7 +36,7 @@ const Responsibilities = () => {
           <div className="xl:w-1/3 md:w-1/2 p-4">
             <div className="border border-gray-200 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center justify-center">
               <div className="w-16 h-16 flex items-center justify-center rounded-full bg-blue-100 text-blue-500 mb-6">
-                <MdOutlineDeliveryDining size={32} />
+                <a href="https://wa.me/qr/FWX3BWWPABVRG1"><MdOutlineDeliveryDining size={32} /></a>
               </div>
               <h2 className="text-lg font-medium text-gray-900 mb-2 text-center">
                 Home Delivery

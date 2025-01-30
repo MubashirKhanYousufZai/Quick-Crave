@@ -36,7 +36,7 @@ const LoginPage = () => {
   return (
     <div className="flex justify-center items-center h-screen bg-gray-100">
       <div className="bg-white w-96 p-8 rounded-lg shadow-lg">
-        <h1 className="text-center text-2xl font-bold">Login</h1>
+        <h1 className="text-center text-2xl text-gray-600 font-bold">Login</h1>
         <p className="text-center text-sm text-gray-500 mt-2">
           Please login using your account details below.
         </p>
@@ -54,7 +54,7 @@ const LoginPage = () => {
               placeholder="Email Address"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="w-full h-10 border-2 border-gray-300 rounded-md p-3 focus:outline-none focus:border-blue-500"
+              className="w-full h-10 border-2 text-gray-600 border-gray-300 rounded-md p-3 focus:outline-none focus:border-blue-500"
             />
           </div>
 
@@ -64,7 +64,7 @@ const LoginPage = () => {
               placeholder="Password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              className="w-full h-10 border-2 border-gray-300 rounded-md p-3 pr-10 focus:outline-none focus:border-blue-500"
+              className="w-full h-10 border-2 text-gray-600 border-gray-300 rounded-md p-3 pr-10 focus:outline-none focus:border-blue-500"
             />
             <button
               type="button"
