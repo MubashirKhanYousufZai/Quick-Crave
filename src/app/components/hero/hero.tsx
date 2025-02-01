@@ -42,7 +42,7 @@ const Hero1 = () => {
           Experience the best coffee and fast food in a modern, cozy atmosphere. ☕🍔
         </p>
         <button className="mt-6 px-6 py-3 text-lg bg-blue-400 text-gray-900 rounded-lg font-medium hover:bg-blue-300 transition">
-          Explore Menu
+          <a href="/components/menu">Explore Menu</a>
         </button>
       </div>
     </div>
